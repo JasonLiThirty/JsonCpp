@@ -1,0 +1,23 @@
+{
+    "id": 1234,
+    "name": "Jason",
+    "team": {
+        "title": {
+            "id": 5678,
+            "name" : "Test",
+			"count": 36.78
+        },
+        "member": [
+            {
+                "id": 1111,
+                "name":"Robert"
+            },
+            {
+                "id": 2222,
+                "name":"Max" 
+            }
+        ]
+    },
+	"department":["R&D", "HR"],
+	"documents":["0:content", "1:info", "2:plan", "3:to-do list", "4:summary"]
+}
